@@ -24,6 +24,7 @@ solve leetcode problems
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0389-find-the-difference](https://github.com/UjjawalAplha/Leetcode/tree/main/0389-find-the-difference/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/UjjawalAplha/Leetcode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/UjjawalAplha/Leetcode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/UjjawalAplha/Leetcode/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
@@ -34,9 +35,18 @@ solve leetcode problems
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0389-find-the-difference](https://github.com/UjjawalAplha/Leetcode/tree/main/0389-find-the-difference/) | Easy |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/UjjawalAplha/Leetcode/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 ## Counting Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/UjjawalAplha/Leetcode/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0389-find-the-difference](https://github.com/UjjawalAplha/Leetcode/tree/main/0389-find-the-difference/) | Easy |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0389-find-the-difference](https://github.com/UjjawalAplha/Leetcode/tree/main/0389-find-the-difference/) | Easy |
 <!---LeetCode Topics End-->
