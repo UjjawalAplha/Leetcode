@@ -9,6 +9,7 @@ solve leetcode problems
 | [0007-reverse-integer](https://github.com/UjjawalAplha/Leetcode/tree/main/0007-reverse-integer/) | Medium |
 | [0009-palindrome-number](https://github.com/UjjawalAplha/Leetcode/tree/main/0009-palindrome-number/) | Easy |
 | [0066-plus-one](https://github.com/UjjawalAplha/Leetcode/tree/main/0066-plus-one/) | Easy |
+| [0231-power-of-two](https://github.com/UjjawalAplha/Leetcode/tree/main/0231-power-of-two/) | Easy |
 | [0326-power-of-three](https://github.com/UjjawalAplha/Leetcode/tree/main/0326-power-of-three/) | Easy |
 | [0342-power-of-four](https://github.com/UjjawalAplha/Leetcode/tree/main/0342-power-of-four/) | Easy |
 | [0509-fibonacci-number](https://github.com/UjjawalAplha/Leetcode/tree/main/0509-fibonacci-number/) | Easy |
@@ -58,6 +59,7 @@ solve leetcode problems
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0231-power-of-two](https://github.com/UjjawalAplha/Leetcode/tree/main/0231-power-of-two/) | Easy |
 | [0342-power-of-four](https://github.com/UjjawalAplha/Leetcode/tree/main/0342-power-of-four/) | Easy |
 | [0389-find-the-difference](https://github.com/UjjawalAplha/Leetcode/tree/main/0389-find-the-difference/) | Easy |
 ## Sliding Window
@@ -83,6 +85,7 @@ solve leetcode problems
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0231-power-of-two](https://github.com/UjjawalAplha/Leetcode/tree/main/0231-power-of-two/) | Easy |
 | [0326-power-of-three](https://github.com/UjjawalAplha/Leetcode/tree/main/0326-power-of-three/) | Easy |
 | [0342-power-of-four](https://github.com/UjjawalAplha/Leetcode/tree/main/0342-power-of-four/) | Easy |
 | [0509-fibonacci-number](https://github.com/UjjawalAplha/Leetcode/tree/main/0509-fibonacci-number/) | Easy |
