@@ -26,6 +26,7 @@ solve leetcode problems
 | [0704-binary-search](https://github.com/UjjawalAplha/Leetcode/tree/main/0704-binary-search/) | Easy |
 | [0976-largest-perimeter-triangle](https://github.com/UjjawalAplha/Leetcode/tree/main/0976-largest-perimeter-triangle/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/UjjawalAplha/Leetcode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/UjjawalAplha/Leetcode/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -61,6 +62,7 @@ solve leetcode problems
 | [0169-majority-element](https://github.com/UjjawalAplha/Leetcode/tree/main/0169-majority-element/) | Easy |
 | [0389-find-the-difference](https://github.com/UjjawalAplha/Leetcode/tree/main/0389-find-the-difference/) | Easy |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/UjjawalAplha/Leetcode/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/UjjawalAplha/Leetcode/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
