@@ -21,6 +21,7 @@ solve leetcode problems
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/UjjawalAplha/Leetcode/tree/main/0001-two-sum/) | Easy |
+| [0035-search-insert-position](https://github.com/UjjawalAplha/Leetcode/tree/main/0035-search-insert-position/) | Easy |
 | [0066-plus-one](https://github.com/UjjawalAplha/Leetcode/tree/main/0066-plus-one/) | Easy |
 | [0169-majority-element](https://github.com/UjjawalAplha/Leetcode/tree/main/0169-majority-element/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/UjjawalAplha/Leetcode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
@@ -31,6 +32,7 @@ solve leetcode problems
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0035-search-insert-position](https://github.com/UjjawalAplha/Leetcode/tree/main/0035-search-insert-position/) | Easy |
 | [0704-binary-search](https://github.com/UjjawalAplha/Leetcode/tree/main/0704-binary-search/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
