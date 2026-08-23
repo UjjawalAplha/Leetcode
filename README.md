@@ -52,6 +52,7 @@ solve leetcode problems
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0020-valid-parentheses](https://github.com/UjjawalAplha/Leetcode/tree/main/0020-valid-parentheses/) | Easy |
 | [0067-add-binary](https://github.com/UjjawalAplha/Leetcode/tree/main/0067-add-binary/) | Easy |
 | [0389-find-the-difference](https://github.com/UjjawalAplha/Leetcode/tree/main/0389-find-the-difference/) | Easy |
 | [1154-day-of-the-year](https://github.com/UjjawalAplha/Leetcode/tree/main/1154-day-of-the-year/) | Easy |
@@ -124,4 +125,12 @@ solve leetcode problems
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0067-add-binary](https://github.com/UjjawalAplha/Leetcode/tree/main/0067-add-binary/) | Easy |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0020-valid-parentheses](https://github.com/UjjawalAplha/Leetcode/tree/main/0020-valid-parentheses/) | Easy |
+## Bracket Sequences
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0020-valid-parentheses](https://github.com/UjjawalAplha/Leetcode/tree/main/0020-valid-parentheses/) | Easy |
 <!---LeetCode Topics End-->
