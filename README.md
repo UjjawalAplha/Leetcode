@@ -10,6 +10,7 @@ solve leetcode problems
 | [0009-palindrome-number](https://github.com/UjjawalAplha/Leetcode/tree/main/0009-palindrome-number/) | Easy |
 | [0066-plus-one](https://github.com/UjjawalAplha/Leetcode/tree/main/0066-plus-one/) | Easy |
 | [0067-add-binary](https://github.com/UjjawalAplha/Leetcode/tree/main/0067-add-binary/) | Easy |
+| [0069-sqrtx](https://github.com/UjjawalAplha/Leetcode/tree/main/0069-sqrtx/) | Easy |
 | [0231-power-of-two](https://github.com/UjjawalAplha/Leetcode/tree/main/0231-power-of-two/) | Easy |
 | [0326-power-of-three](https://github.com/UjjawalAplha/Leetcode/tree/main/0326-power-of-three/) | Easy |
 | [0342-power-of-four](https://github.com/UjjawalAplha/Leetcode/tree/main/0342-power-of-four/) | Easy |
@@ -35,6 +36,7 @@ solve leetcode problems
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0035-search-insert-position](https://github.com/UjjawalAplha/Leetcode/tree/main/0035-search-insert-position/) | Easy |
+| [0069-sqrtx](https://github.com/UjjawalAplha/Leetcode/tree/main/0069-sqrtx/) | Easy |
 | [0704-binary-search](https://github.com/UjjawalAplha/Leetcode/tree/main/0704-binary-search/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
@@ -133,4 +135,8 @@ solve leetcode problems
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/UjjawalAplha/Leetcode/tree/main/0020-valid-parentheses/) | Easy |
+## Newton's Method
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0069-sqrtx](https://github.com/UjjawalAplha/Leetcode/tree/main/0069-sqrtx/) | Easy |
 <!---LeetCode Topics End-->
