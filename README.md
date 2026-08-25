@@ -12,6 +12,7 @@ solve leetcode problems
 | [0067-add-binary](https://github.com/UjjawalAplha/Leetcode/tree/main/0067-add-binary/) | Easy |
 | [0069-sqrtx](https://github.com/UjjawalAplha/Leetcode/tree/main/0069-sqrtx/) | Easy |
 | [0231-power-of-two](https://github.com/UjjawalAplha/Leetcode/tree/main/0231-power-of-two/) | Easy |
+| [0263-ugly-number](https://github.com/UjjawalAplha/Leetcode/tree/main/0263-ugly-number/) | Easy |
 | [0326-power-of-three](https://github.com/UjjawalAplha/Leetcode/tree/main/0326-power-of-three/) | Easy |
 | [0342-power-of-four](https://github.com/UjjawalAplha/Leetcode/tree/main/0342-power-of-four/) | Easy |
 | [0509-fibonacci-number](https://github.com/UjjawalAplha/Leetcode/tree/main/0509-fibonacci-number/) | Easy |
