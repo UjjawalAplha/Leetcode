@@ -30,6 +30,7 @@ solve leetcode problems
 | [0035-search-insert-position](https://github.com/UjjawalAplha/Leetcode/tree/main/0035-search-insert-position/) | Easy |
 | [0066-plus-one](https://github.com/UjjawalAplha/Leetcode/tree/main/0066-plus-one/) | Easy |
 | [0169-majority-element](https://github.com/UjjawalAplha/Leetcode/tree/main/0169-majority-element/) | Easy |
+| [0283-move-zeroes](https://github.com/UjjawalAplha/Leetcode/tree/main/0283-move-zeroes/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/UjjawalAplha/Leetcode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0704-binary-search](https://github.com/UjjawalAplha/Leetcode/tree/main/0704-binary-search/) | Easy |
 | [0976-largest-perimeter-triangle](https://github.com/UjjawalAplha/Leetcode/tree/main/0976-largest-perimeter-triangle/) | Easy |
@@ -169,4 +170,8 @@ solve leetcode problems
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/UjjawalAplha/Leetcode/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0283-move-zeroes](https://github.com/UjjawalAplha/Leetcode/tree/main/0283-move-zeroes/) | Easy |
 <!---LeetCode Topics End-->
