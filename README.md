@@ -106,6 +106,7 @@ solve leetcode problems
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/UjjawalAplha/Leetcode/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0231-power-of-two](https://github.com/UjjawalAplha/Leetcode/tree/main/0231-power-of-two/) | Easy |
 | [0326-power-of-three](https://github.com/UjjawalAplha/Leetcode/tree/main/0326-power-of-three/) | Easy |
 | [0342-power-of-four](https://github.com/UjjawalAplha/Leetcode/tree/main/0342-power-of-four/) | Easy |
@@ -146,4 +147,8 @@ solve leetcode problems
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/UjjawalAplha/Leetcode/tree/main/1480-running-sum-of-1d-array/) | Easy |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/UjjawalAplha/Leetcode/tree/main/0021-merge-two-sorted-lists/) | Easy |
 <!---LeetCode Topics End-->
