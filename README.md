@@ -32,6 +32,7 @@ solve leetcode problems
 | [0976-largest-perimeter-triangle](https://github.com/UjjawalAplha/Leetcode/tree/main/0976-largest-perimeter-triangle/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/UjjawalAplha/Leetcode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/UjjawalAplha/Leetcode/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
+| [3718-smallest-missing-multiple-of-k](https://github.com/UjjawalAplha/Leetcode/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -73,6 +74,7 @@ solve leetcode problems
 | [0389-find-the-difference](https://github.com/UjjawalAplha/Leetcode/tree/main/0389-find-the-difference/) | Easy |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/UjjawalAplha/Leetcode/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/UjjawalAplha/Leetcode/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
+| [3718-smallest-missing-multiple-of-k](https://github.com/UjjawalAplha/Leetcode/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
