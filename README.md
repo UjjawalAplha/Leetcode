@@ -28,6 +28,7 @@ solve leetcode problems
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/UjjawalAplha/Leetcode/tree/main/0001-two-sum/) | Easy |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/UjjawalAplha/Leetcode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0035-search-insert-position](https://github.com/UjjawalAplha/Leetcode/tree/main/0035-search-insert-position/) | Easy |
 | [0066-plus-one](https://github.com/UjjawalAplha/Leetcode/tree/main/0066-plus-one/) | Easy |
 | [0169-majority-element](https://github.com/UjjawalAplha/Leetcode/tree/main/0169-majority-element/) | Easy |
@@ -176,5 +177,6 @@ solve leetcode problems
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/UjjawalAplha/Leetcode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0283-move-zeroes](https://github.com/UjjawalAplha/Leetcode/tree/main/0283-move-zeroes/) | Easy |
 <!---LeetCode Topics End-->
