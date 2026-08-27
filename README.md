@@ -12,6 +12,7 @@ solve leetcode problems
 | [0067-add-binary](https://github.com/UjjawalAplha/Leetcode/tree/main/0067-add-binary/) | Easy |
 | [0069-sqrtx](https://github.com/UjjawalAplha/Leetcode/tree/main/0069-sqrtx/) | Easy |
 | [0070-climbing-stairs](https://github.com/UjjawalAplha/Leetcode/tree/main/0070-climbing-stairs/) | Easy |
+| [0168-excel-sheet-column-title](https://github.com/UjjawalAplha/Leetcode/tree/main/0168-excel-sheet-column-title/) | Easy |
 | [0231-power-of-two](https://github.com/UjjawalAplha/Leetcode/tree/main/0231-power-of-two/) | Easy |
 | [0263-ugly-number](https://github.com/UjjawalAplha/Leetcode/tree/main/0263-ugly-number/) | Easy |
 | [0326-power-of-three](https://github.com/UjjawalAplha/Leetcode/tree/main/0326-power-of-three/) | Easy |
@@ -68,6 +69,7 @@ solve leetcode problems
 | [0020-valid-parentheses](https://github.com/UjjawalAplha/Leetcode/tree/main/0020-valid-parentheses/) | Easy |
 | [0058-length-of-last-word](https://github.com/UjjawalAplha/Leetcode/tree/main/0058-length-of-last-word/) | Easy |
 | [0067-add-binary](https://github.com/UjjawalAplha/Leetcode/tree/main/0067-add-binary/) | Easy |
+| [0168-excel-sheet-column-title](https://github.com/UjjawalAplha/Leetcode/tree/main/0168-excel-sheet-column-title/) | Easy |
 | [0389-find-the-difference](https://github.com/UjjawalAplha/Leetcode/tree/main/0389-find-the-difference/) | Easy |
 | [1154-day-of-the-year](https://github.com/UjjawalAplha/Leetcode/tree/main/1154-day-of-the-year/) | Easy |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/UjjawalAplha/Leetcode/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
