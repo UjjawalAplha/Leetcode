@@ -35,6 +35,7 @@ solve leetcode problems
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/UjjawalAplha/Leetcode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0136-single-number](https://github.com/UjjawalAplha/Leetcode/tree/main/0136-single-number/) | Easy |
 | [0169-majority-element](https://github.com/UjjawalAplha/Leetcode/tree/main/0169-majority-element/) | Easy |
+| [0217-contains-duplicate](https://github.com/UjjawalAplha/Leetcode/tree/main/0217-contains-duplicate/) | Easy |
 | [0283-move-zeroes](https://github.com/UjjawalAplha/Leetcode/tree/main/0283-move-zeroes/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/UjjawalAplha/Leetcode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0704-binary-search](https://github.com/UjjawalAplha/Leetcode/tree/main/0704-binary-search/) | Easy |
@@ -55,6 +56,7 @@ solve leetcode problems
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/UjjawalAplha/Leetcode/tree/main/0169-majority-element/) | Easy |
+| [0217-contains-duplicate](https://github.com/UjjawalAplha/Leetcode/tree/main/0217-contains-duplicate/) | Easy |
 | [0389-find-the-difference](https://github.com/UjjawalAplha/Leetcode/tree/main/0389-find-the-difference/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/UjjawalAplha/Leetcode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0976-largest-perimeter-triangle](https://github.com/UjjawalAplha/Leetcode/tree/main/0976-largest-perimeter-triangle/) | Easy |
@@ -87,6 +89,7 @@ solve leetcode problems
 | ------- | ------- |
 | [0001-two-sum](https://github.com/UjjawalAplha/Leetcode/tree/main/0001-two-sum/) | Easy |
 | [0169-majority-element](https://github.com/UjjawalAplha/Leetcode/tree/main/0169-majority-element/) | Easy |
+| [0217-contains-duplicate](https://github.com/UjjawalAplha/Leetcode/tree/main/0217-contains-duplicate/) | Easy |
 | [0389-find-the-difference](https://github.com/UjjawalAplha/Leetcode/tree/main/0389-find-the-difference/) | Easy |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/UjjawalAplha/Leetcode/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/UjjawalAplha/Leetcode/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
