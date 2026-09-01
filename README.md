@@ -133,6 +133,7 @@ solve leetcode problems
 | ------- | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/UjjawalAplha/Leetcode/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0231-power-of-two](https://github.com/UjjawalAplha/Leetcode/tree/main/0231-power-of-two/) | Easy |
+| [0234-palindrome-linked-list](https://github.com/UjjawalAplha/Leetcode/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0326-power-of-three](https://github.com/UjjawalAplha/Leetcode/tree/main/0326-power-of-three/) | Easy |
 | [0342-power-of-four](https://github.com/UjjawalAplha/Leetcode/tree/main/0342-power-of-four/) | Easy |
 | [0509-fibonacci-number](https://github.com/UjjawalAplha/Leetcode/tree/main/0509-fibonacci-number/) | Easy |
@@ -162,6 +163,7 @@ solve leetcode problems
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/UjjawalAplha/Leetcode/tree/main/0020-valid-parentheses/) | Easy |
+| [0234-palindrome-linked-list](https://github.com/UjjawalAplha/Leetcode/tree/main/0234-palindrome-linked-list/) | Easy |
 ## Bracket Sequences
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -178,6 +180,7 @@ solve leetcode problems
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/UjjawalAplha/Leetcode/tree/main/0021-merge-two-sorted-lists/) | Easy |
+| [0234-palindrome-linked-list](https://github.com/UjjawalAplha/Leetcode/tree/main/0234-palindrome-linked-list/) | Easy |
 ## Interactive
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -190,5 +193,6 @@ solve leetcode problems
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/UjjawalAplha/Leetcode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0234-palindrome-linked-list](https://github.com/UjjawalAplha/Leetcode/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0283-move-zeroes](https://github.com/UjjawalAplha/Leetcode/tree/main/0283-move-zeroes/) | Easy |
 <!---LeetCode Topics End-->
