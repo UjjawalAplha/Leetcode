@@ -81,6 +81,7 @@ solve leetcode problems
 | [0058-length-of-last-word](https://github.com/UjjawalAplha/Leetcode/tree/main/0058-length-of-last-word/) | Easy |
 | [0067-add-binary](https://github.com/UjjawalAplha/Leetcode/tree/main/0067-add-binary/) | Easy |
 | [0168-excel-sheet-column-title](https://github.com/UjjawalAplha/Leetcode/tree/main/0168-excel-sheet-column-title/) | Easy |
+| [0344-reverse-string](https://github.com/UjjawalAplha/Leetcode/tree/main/0344-reverse-string/) | Easy |
 | [0389-find-the-difference](https://github.com/UjjawalAplha/Leetcode/tree/main/0389-find-the-difference/) | Easy |
 | [1154-day-of-the-year](https://github.com/UjjawalAplha/Leetcode/tree/main/1154-day-of-the-year/) | Easy |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/UjjawalAplha/Leetcode/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
@@ -203,6 +204,7 @@ solve leetcode problems
 | [0026-remove-duplicates-from-sorted-array](https://github.com/UjjawalAplha/Leetcode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/UjjawalAplha/Leetcode/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0283-move-zeroes](https://github.com/UjjawalAplha/Leetcode/tree/main/0283-move-zeroes/) | Easy |
+| [0344-reverse-string](https://github.com/UjjawalAplha/Leetcode/tree/main/0344-reverse-string/) | Easy |
 ## Primality Test
 | Problem Name | Difficulty |
 | ------- | ------- |
