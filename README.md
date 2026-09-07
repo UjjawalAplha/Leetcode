@@ -86,6 +86,7 @@ solve leetcode problems
 | [0344-reverse-string](https://github.com/UjjawalAplha/Leetcode/tree/main/0344-reverse-string/) | Easy |
 | [0389-find-the-difference](https://github.com/UjjawalAplha/Leetcode/tree/main/0389-find-the-difference/) | Easy |
 | [1154-day-of-the-year](https://github.com/UjjawalAplha/Leetcode/tree/main/1154-day-of-the-year/) | Easy |
+| [2351-first-letter-to-appear-twice](https://github.com/UjjawalAplha/Leetcode/tree/main/2351-first-letter-to-appear-twice/) | Easy |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/UjjawalAplha/Leetcode/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/UjjawalAplha/Leetcode/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/UjjawalAplha/Leetcode/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
@@ -93,6 +94,7 @@ solve leetcode problems
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/UjjawalAplha/Leetcode/tree/main/0169-majority-element/) | Easy |
+| [2351-first-letter-to-appear-twice](https://github.com/UjjawalAplha/Leetcode/tree/main/2351-first-letter-to-appear-twice/) | Easy |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/UjjawalAplha/Leetcode/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -103,6 +105,7 @@ solve leetcode problems
 | [0219-contains-duplicate-ii](https://github.com/UjjawalAplha/Leetcode/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0389-find-the-difference](https://github.com/UjjawalAplha/Leetcode/tree/main/0389-find-the-difference/) | Easy |
 | [0645-set-mismatch](https://github.com/UjjawalAplha/Leetcode/tree/main/0645-set-mismatch/) | Easy |
+| [2351-first-letter-to-appear-twice](https://github.com/UjjawalAplha/Leetcode/tree/main/2351-first-letter-to-appear-twice/) | Easy |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/UjjawalAplha/Leetcode/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/UjjawalAplha/Leetcode/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
 | [3718-smallest-missing-multiple-of-k](https://github.com/UjjawalAplha/Leetcode/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
@@ -116,6 +119,7 @@ solve leetcode problems
 | [0342-power-of-four](https://github.com/UjjawalAplha/Leetcode/tree/main/0342-power-of-four/) | Easy |
 | [0389-find-the-difference](https://github.com/UjjawalAplha/Leetcode/tree/main/0389-find-the-difference/) | Easy |
 | [0645-set-mismatch](https://github.com/UjjawalAplha/Leetcode/tree/main/0645-set-mismatch/) | Easy |
+| [2351-first-letter-to-appear-twice](https://github.com/UjjawalAplha/Leetcode/tree/main/2351-first-letter-to-appear-twice/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
