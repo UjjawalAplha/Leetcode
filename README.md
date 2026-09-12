@@ -25,6 +25,7 @@ solve leetcode problems
 | [0628-maximum-product-of-three-numbers](https://github.com/UjjawalAplha/Leetcode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0976-largest-perimeter-triangle](https://github.com/UjjawalAplha/Leetcode/tree/main/0976-largest-perimeter-triangle/) | Easy |
 | [1154-day-of-the-year](https://github.com/UjjawalAplha/Leetcode/tree/main/1154-day-of-the-year/) | Easy |
+| [1688-count-of-matches-in-tournament](https://github.com/UjjawalAplha/Leetcode/tree/main/1688-count-of-matches-in-tournament/) | Easy |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/UjjawalAplha/Leetcode/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3345-smallest-divisible-digit-product-i](https://github.com/UjjawalAplha/Leetcode/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/UjjawalAplha/Leetcode/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
@@ -183,6 +184,7 @@ solve leetcode problems
 | ------- | ------- |
 | [0067-add-binary](https://github.com/UjjawalAplha/Leetcode/tree/main/0067-add-binary/) | Easy |
 | [0258-add-digits](https://github.com/UjjawalAplha/Leetcode/tree/main/0258-add-digits/) | Easy |
+| [1688-count-of-matches-in-tournament](https://github.com/UjjawalAplha/Leetcode/tree/main/1688-count-of-matches-in-tournament/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
