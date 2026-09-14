@@ -50,6 +50,7 @@ solve leetcode problems
 | [0219-contains-duplicate-ii](https://github.com/UjjawalAplha/Leetcode/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0283-move-zeroes](https://github.com/UjjawalAplha/Leetcode/tree/main/0283-move-zeroes/) | Easy |
 | [0414-third-maximum-number](https://github.com/UjjawalAplha/Leetcode/tree/main/0414-third-maximum-number/) | Easy |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/UjjawalAplha/Leetcode/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/UjjawalAplha/Leetcode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0645-set-mismatch](https://github.com/UjjawalAplha/Leetcode/tree/main/0645-set-mismatch/) | Easy |
 | [0704-binary-search](https://github.com/UjjawalAplha/Leetcode/tree/main/0704-binary-search/) | Easy |
@@ -113,6 +114,7 @@ solve leetcode problems
 | [0217-contains-duplicate](https://github.com/UjjawalAplha/Leetcode/tree/main/0217-contains-duplicate/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/UjjawalAplha/Leetcode/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0389-find-the-difference](https://github.com/UjjawalAplha/Leetcode/tree/main/0389-find-the-difference/) | Easy |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/UjjawalAplha/Leetcode/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0645-set-mismatch](https://github.com/UjjawalAplha/Leetcode/tree/main/0645-set-mismatch/) | Easy |
 | [2351-first-letter-to-appear-twice](https://github.com/UjjawalAplha/Leetcode/tree/main/2351-first-letter-to-appear-twice/) | Easy |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/UjjawalAplha/Leetcode/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
