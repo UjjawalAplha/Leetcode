@@ -8,6 +8,7 @@ solve leetcode problems
 | ------- | ------- |
 | [0007-reverse-integer](https://github.com/UjjawalAplha/Leetcode/tree/main/0007-reverse-integer/) | Medium |
 | [0009-palindrome-number](https://github.com/UjjawalAplha/Leetcode/tree/main/0009-palindrome-number/) | Easy |
+| [0013-roman-to-integer](https://github.com/UjjawalAplha/Leetcode/tree/main/0013-roman-to-integer/) | Easy |
 | [0050-powx-n](https://github.com/UjjawalAplha/Leetcode/tree/main/0050-powx-n/) | Medium |
 | [0066-plus-one](https://github.com/UjjawalAplha/Leetcode/tree/main/0066-plus-one/) | Easy |
 | [0067-add-binary](https://github.com/UjjawalAplha/Leetcode/tree/main/0067-add-binary/) | Easy |
@@ -89,6 +90,7 @@ solve leetcode problems
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0013-roman-to-integer](https://github.com/UjjawalAplha/Leetcode/tree/main/0013-roman-to-integer/) | Easy |
 | [0020-valid-parentheses](https://github.com/UjjawalAplha/Leetcode/tree/main/0020-valid-parentheses/) | Easy |
 | [0058-length-of-last-word](https://github.com/UjjawalAplha/Leetcode/tree/main/0058-length-of-last-word/) | Easy |
 | [0067-add-binary](https://github.com/UjjawalAplha/Leetcode/tree/main/0067-add-binary/) | Easy |
@@ -110,6 +112,7 @@ solve leetcode problems
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/UjjawalAplha/Leetcode/tree/main/0001-two-sum/) | Easy |
+| [0013-roman-to-integer](https://github.com/UjjawalAplha/Leetcode/tree/main/0013-roman-to-integer/) | Easy |
 | [0169-majority-element](https://github.com/UjjawalAplha/Leetcode/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/UjjawalAplha/Leetcode/tree/main/0217-contains-duplicate/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/UjjawalAplha/Leetcode/tree/main/0219-contains-duplicate-ii/) | Easy |
