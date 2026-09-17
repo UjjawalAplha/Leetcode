@@ -14,6 +14,7 @@ solve leetcode problems
 | [0067-add-binary](https://github.com/UjjawalAplha/Leetcode/tree/main/0067-add-binary/) | Easy |
 | [0069-sqrtx](https://github.com/UjjawalAplha/Leetcode/tree/main/0069-sqrtx/) | Easy |
 | [0070-climbing-stairs](https://github.com/UjjawalAplha/Leetcode/tree/main/0070-climbing-stairs/) | Easy |
+| [0089-gray-code](https://github.com/UjjawalAplha/Leetcode/tree/main/0089-gray-code/) | Medium |
 | [0168-excel-sheet-column-title](https://github.com/UjjawalAplha/Leetcode/tree/main/0168-excel-sheet-column-title/) | Easy |
 | [0189-rotate-array](https://github.com/UjjawalAplha/Leetcode/tree/main/0189-rotate-array/) | Medium |
 | [0204-count-primes](https://github.com/UjjawalAplha/Leetcode/tree/main/0204-count-primes/) | Medium |
@@ -128,6 +129,7 @@ solve leetcode problems
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0067-add-binary](https://github.com/UjjawalAplha/Leetcode/tree/main/0067-add-binary/) | Easy |
+| [0089-gray-code](https://github.com/UjjawalAplha/Leetcode/tree/main/0089-gray-code/) | Medium |
 | [0136-single-number](https://github.com/UjjawalAplha/Leetcode/tree/main/0136-single-number/) | Easy |
 | [0231-power-of-two](https://github.com/UjjawalAplha/Leetcode/tree/main/0231-power-of-two/) | Easy |
 | [0342-power-of-four](https://github.com/UjjawalAplha/Leetcode/tree/main/0342-power-of-four/) | Easy |
@@ -244,4 +246,8 @@ solve leetcode problems
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0204-count-primes](https://github.com/UjjawalAplha/Leetcode/tree/main/0204-count-primes/) | Medium |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0089-gray-code](https://github.com/UjjawalAplha/Leetcode/tree/main/0089-gray-code/) | Medium |
 <!---LeetCode Topics End-->
