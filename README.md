@@ -98,6 +98,7 @@ solve leetcode problems
 | [0168-excel-sheet-column-title](https://github.com/UjjawalAplha/Leetcode/tree/main/0168-excel-sheet-column-title/) | Easy |
 | [0344-reverse-string](https://github.com/UjjawalAplha/Leetcode/tree/main/0344-reverse-string/) | Easy |
 | [0389-find-the-difference](https://github.com/UjjawalAplha/Leetcode/tree/main/0389-find-the-difference/) | Easy |
+| [0796-rotate-string](https://github.com/UjjawalAplha/Leetcode/tree/main/0796-rotate-string/) | Easy |
 | [1154-day-of-the-year](https://github.com/UjjawalAplha/Leetcode/tree/main/1154-day-of-the-year/) | Easy |
 | [2351-first-letter-to-appear-twice](https://github.com/UjjawalAplha/Leetcode/tree/main/2351-first-letter-to-appear-twice/) | Easy |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/UjjawalAplha/Leetcode/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
@@ -252,4 +253,8 @@ solve leetcode problems
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0089-gray-code](https://github.com/UjjawalAplha/Leetcode/tree/main/0089-gray-code/) | Medium |
+## String Matching
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0796-rotate-string](https://github.com/UjjawalAplha/Leetcode/tree/main/0796-rotate-string/) | Easy |
 <!---LeetCode Topics End-->
