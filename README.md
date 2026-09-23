@@ -21,6 +21,7 @@ solve leetcode problems
 | [0231-power-of-two](https://github.com/UjjawalAplha/Leetcode/tree/main/0231-power-of-two/) | Easy |
 | [0258-add-digits](https://github.com/UjjawalAplha/Leetcode/tree/main/0258-add-digits/) | Easy |
 | [0263-ugly-number](https://github.com/UjjawalAplha/Leetcode/tree/main/0263-ugly-number/) | Easy |
+| [0268-missing-number](https://github.com/UjjawalAplha/Leetcode/tree/main/0268-missing-number/) | Easy |
 | [0326-power-of-three](https://github.com/UjjawalAplha/Leetcode/tree/main/0326-power-of-three/) | Easy |
 | [0342-power-of-four](https://github.com/UjjawalAplha/Leetcode/tree/main/0342-power-of-four/) | Easy |
 | [0509-fibonacci-number](https://github.com/UjjawalAplha/Leetcode/tree/main/0509-fibonacci-number/) | Easy |
@@ -50,6 +51,7 @@ solve leetcode problems
 | [0204-count-primes](https://github.com/UjjawalAplha/Leetcode/tree/main/0204-count-primes/) | Medium |
 | [0217-contains-duplicate](https://github.com/UjjawalAplha/Leetcode/tree/main/0217-contains-duplicate/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/UjjawalAplha/Leetcode/tree/main/0219-contains-duplicate-ii/) | Easy |
+| [0268-missing-number](https://github.com/UjjawalAplha/Leetcode/tree/main/0268-missing-number/) | Easy |
 | [0283-move-zeroes](https://github.com/UjjawalAplha/Leetcode/tree/main/0283-move-zeroes/) | Easy |
 | [0414-third-maximum-number](https://github.com/UjjawalAplha/Leetcode/tree/main/0414-third-maximum-number/) | Easy |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/UjjawalAplha/Leetcode/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
@@ -69,6 +71,7 @@ solve leetcode problems
 | ------- | ------- |
 | [0035-search-insert-position](https://github.com/UjjawalAplha/Leetcode/tree/main/0035-search-insert-position/) | Easy |
 | [0069-sqrtx](https://github.com/UjjawalAplha/Leetcode/tree/main/0069-sqrtx/) | Easy |
+| [0268-missing-number](https://github.com/UjjawalAplha/Leetcode/tree/main/0268-missing-number/) | Easy |
 | [0278-first-bad-version](https://github.com/UjjawalAplha/Leetcode/tree/main/0278-first-bad-version/) | Easy |
 | [0704-binary-search](https://github.com/UjjawalAplha/Leetcode/tree/main/0704-binary-search/) | Easy |
 ## Sorting
@@ -76,6 +79,7 @@ solve leetcode problems
 | ------- | ------- |
 | [0169-majority-element](https://github.com/UjjawalAplha/Leetcode/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/UjjawalAplha/Leetcode/tree/main/0217-contains-duplicate/) | Easy |
+| [0268-missing-number](https://github.com/UjjawalAplha/Leetcode/tree/main/0268-missing-number/) | Easy |
 | [0389-find-the-difference](https://github.com/UjjawalAplha/Leetcode/tree/main/0389-find-the-difference/) | Easy |
 | [0414-third-maximum-number](https://github.com/UjjawalAplha/Leetcode/tree/main/0414-third-maximum-number/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/UjjawalAplha/Leetcode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
@@ -119,6 +123,7 @@ solve leetcode problems
 | [0169-majority-element](https://github.com/UjjawalAplha/Leetcode/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/UjjawalAplha/Leetcode/tree/main/0217-contains-duplicate/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/UjjawalAplha/Leetcode/tree/main/0219-contains-duplicate-ii/) | Easy |
+| [0268-missing-number](https://github.com/UjjawalAplha/Leetcode/tree/main/0268-missing-number/) | Easy |
 | [0389-find-the-difference](https://github.com/UjjawalAplha/Leetcode/tree/main/0389-find-the-difference/) | Easy |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/UjjawalAplha/Leetcode/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0645-set-mismatch](https://github.com/UjjawalAplha/Leetcode/tree/main/0645-set-mismatch/) | Easy |
@@ -134,6 +139,7 @@ solve leetcode problems
 | [0089-gray-code](https://github.com/UjjawalAplha/Leetcode/tree/main/0089-gray-code/) | Medium |
 | [0136-single-number](https://github.com/UjjawalAplha/Leetcode/tree/main/0136-single-number/) | Easy |
 | [0231-power-of-two](https://github.com/UjjawalAplha/Leetcode/tree/main/0231-power-of-two/) | Easy |
+| [0268-missing-number](https://github.com/UjjawalAplha/Leetcode/tree/main/0268-missing-number/) | Easy |
 | [0342-power-of-four](https://github.com/UjjawalAplha/Leetcode/tree/main/0342-power-of-four/) | Easy |
 | [0389-find-the-difference](https://github.com/UjjawalAplha/Leetcode/tree/main/0389-find-the-difference/) | Easy |
 | [0645-set-mismatch](https://github.com/UjjawalAplha/Leetcode/tree/main/0645-set-mismatch/) | Easy |
