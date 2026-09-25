@@ -63,6 +63,7 @@ solve leetcode problems
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/UjjawalAplha/Leetcode/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/UjjawalAplha/Leetcode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/UjjawalAplha/Leetcode/tree/main/1480-running-sum-of-1d-array/) | Easy |
+| [1848-minimum-distance-to-the-target-element](https://github.com/UjjawalAplha/Leetcode/tree/main/1848-minimum-distance-to-the-target-element/) | Easy |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/UjjawalAplha/Leetcode/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/UjjawalAplha/Leetcode/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3718-smallest-missing-multiple-of-k](https://github.com/UjjawalAplha/Leetcode/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
