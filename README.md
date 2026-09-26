@@ -30,6 +30,7 @@ solve leetcode problems
 | [1154-day-of-the-year](https://github.com/UjjawalAplha/Leetcode/tree/main/1154-day-of-the-year/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/UjjawalAplha/Leetcode/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1688-count-of-matches-in-tournament](https://github.com/UjjawalAplha/Leetcode/tree/main/1688-count-of-matches-in-tournament/) | Easy |
+| [1952-three-divisors](https://github.com/UjjawalAplha/Leetcode/tree/main/1952-three-divisors/) | Easy |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/UjjawalAplha/Leetcode/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3345-smallest-divisible-digit-product-i](https://github.com/UjjawalAplha/Leetcode/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/UjjawalAplha/Leetcode/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
@@ -164,6 +165,7 @@ solve leetcode problems
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0204-count-primes](https://github.com/UjjawalAplha/Leetcode/tree/main/0204-count-primes/) | Medium |
+| [1952-three-divisors](https://github.com/UjjawalAplha/Leetcode/tree/main/1952-three-divisors/) | Easy |
 | [3345-smallest-divisible-digit-product-i](https://github.com/UjjawalAplha/Leetcode/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -237,6 +239,7 @@ solve leetcode problems
 | ------- | ------- |
 | [0204-count-primes](https://github.com/UjjawalAplha/Leetcode/tree/main/0204-count-primes/) | Medium |
 | [0258-add-digits](https://github.com/UjjawalAplha/Leetcode/tree/main/0258-add-digits/) | Easy |
+| [1952-three-divisors](https://github.com/UjjawalAplha/Leetcode/tree/main/1952-three-divisors/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/UjjawalAplha/Leetcode/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -254,6 +257,7 @@ solve leetcode problems
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0204-count-primes](https://github.com/UjjawalAplha/Leetcode/tree/main/0204-count-primes/) | Medium |
+| [1952-three-divisors](https://github.com/UjjawalAplha/Leetcode/tree/main/1952-three-divisors/) | Easy |
 ## Prime Number Sieve
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -270,4 +274,8 @@ solve leetcode problems
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0183-customers-who-never-order](https://github.com/UjjawalAplha/Leetcode/tree/main/0183-customers-who-never-order/) | Easy |
+## Prime Factorization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1952-three-divisors](https://github.com/UjjawalAplha/Leetcode/tree/main/1952-three-divisors/) | Easy |
 <!---LeetCode Topics End-->
