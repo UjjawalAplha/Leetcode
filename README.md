@@ -108,6 +108,7 @@ solve leetcode problems
 | [0389-find-the-difference](https://github.com/UjjawalAplha/Leetcode/tree/main/0389-find-the-difference/) | Easy |
 | [0796-rotate-string](https://github.com/UjjawalAplha/Leetcode/tree/main/0796-rotate-string/) | Easy |
 | [1154-day-of-the-year](https://github.com/UjjawalAplha/Leetcode/tree/main/1154-day-of-the-year/) | Easy |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/UjjawalAplha/Leetcode/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [2351-first-letter-to-appear-twice](https://github.com/UjjawalAplha/Leetcode/tree/main/2351-first-letter-to-appear-twice/) | Easy |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/UjjawalAplha/Leetcode/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/UjjawalAplha/Leetcode/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
@@ -213,10 +214,12 @@ solve leetcode problems
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/UjjawalAplha/Leetcode/tree/main/0020-valid-parentheses/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/UjjawalAplha/Leetcode/tree/main/0234-palindrome-linked-list/) | Easy |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/UjjawalAplha/Leetcode/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 ## Bracket Sequences
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/UjjawalAplha/Leetcode/tree/main/0020-valid-parentheses/) | Easy |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/UjjawalAplha/Leetcode/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 ## Newton's Method
 | Problem Name | Difficulty |
 | ------- | ------- |
