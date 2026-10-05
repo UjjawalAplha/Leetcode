@@ -108,6 +108,7 @@ solve leetcode problems
 | [0389-find-the-difference](https://github.com/UjjawalAplha/Leetcode/tree/main/0389-find-the-difference/) | Easy |
 | [0678-valid-parenthesis-string](https://github.com/UjjawalAplha/Leetcode/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0796-rotate-string](https://github.com/UjjawalAplha/Leetcode/tree/main/0796-rotate-string/) | Easy |
+| [0856-score-of-parentheses](https://github.com/UjjawalAplha/Leetcode/tree/main/0856-score-of-parentheses/) | Medium |
 | [1154-day-of-the-year](https://github.com/UjjawalAplha/Leetcode/tree/main/1154-day-of-the-year/) | Easy |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/UjjawalAplha/Leetcode/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [2351-first-letter-to-appear-twice](https://github.com/UjjawalAplha/Leetcode/tree/main/2351-first-letter-to-appear-twice/) | Easy |
@@ -218,12 +219,14 @@ solve leetcode problems
 | [0020-valid-parentheses](https://github.com/UjjawalAplha/Leetcode/tree/main/0020-valid-parentheses/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/UjjawalAplha/Leetcode/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0678-valid-parenthesis-string](https://github.com/UjjawalAplha/Leetcode/tree/main/0678-valid-parenthesis-string/) | Medium |
+| [0856-score-of-parentheses](https://github.com/UjjawalAplha/Leetcode/tree/main/0856-score-of-parentheses/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/UjjawalAplha/Leetcode/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 ## Bracket Sequences
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/UjjawalAplha/Leetcode/tree/main/0020-valid-parentheses/) | Easy |
 | [0678-valid-parenthesis-string](https://github.com/UjjawalAplha/Leetcode/tree/main/0678-valid-parenthesis-string/) | Medium |
+| [0856-score-of-parentheses](https://github.com/UjjawalAplha/Leetcode/tree/main/0856-score-of-parentheses/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/UjjawalAplha/Leetcode/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 ## Newton's Method
 | Problem Name | Difficulty |
